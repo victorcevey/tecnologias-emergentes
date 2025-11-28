@@ -1,1 +1,1 @@
- https://victorcevey.github.io/tecnologias-emergentes.github.io/
+https://victorcevey.github.io/tecnologias-emergentes.github.io/
